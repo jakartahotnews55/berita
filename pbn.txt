@@ -34,8 +34,6 @@
 <a href="https://testlogin2.giftedmatrix.net/">https://testlogin2.giftedmatrix.net/</a>
 <a href="https://api.hrp.test.ibasis.co.uk/">https://api.hrp.test.ibasis.co.uk/</a>
 <!-- END BRANDING -->
-    <a href="https://cerianews.github.io/today/">CeriaNews</a><br>
-    <a href="https://gayanews77.github.io/berita/">Gayanews77</a>
 
 <a href="https://stpicurug.ac.id/pages/antara-kuliah-dan-cuan-mahasiswa-stpi-curug-gunakan-pola-manual-bet-hingga-kantongi-rp215-juta.html">Antara Kuliah dan Cuan: Mahasiswa STPI Curug Gunakan Pola Manual Bet Hingga Kantongi Rp215 Juta</a><br>
 <a href="https://stpicurug.ac.id/pages/belajar-aviasi-dapat-inspirasi-mahasiswa-stpi-curug-ungkap-strategi-pola-double-chance-sweet-bonanza.html">Belajar Aviasi Dapat Inspirasi: Mahasiswa STPI Curug Ungkap Strategi Pola Double Chance Sweet Bonanza</a><br>
