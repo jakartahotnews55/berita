@@ -409,7 +409,8 @@
 <a href="https://kader.id/">https://kader.id/</a>
 <a href="https://kotamalang.my.id/">https://kotamalang.my.id/</a>
 <a href="https://minimal.co.id/">https://minimal.co.id/</a>
-
+<a href="https://kpud-cilacapkab.go.id/">https://kpud-cilacapkab.go.id/</a>
+<a href="https://sijunjungkab.go.id/">https://sijunjungkab.go.id</a>
 
 
 </div>
