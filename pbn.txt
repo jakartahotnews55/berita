@@ -39,35 +39,4 @@
 <a href="https://api.hrp.test.ibasis.co.uk/">https://api.hrp.test.ibasis.co.uk/</a>
 <!-- END BRANDING -->
 
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/analisis-dinamika-sistem-spaceman-menunjukkan-konsistensi-pola-pergerakan.html">Analisis Dinamika Sistem : Spaceman Menunjukkan Konsistensi Pola Pergerakan</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/analisis-mekanisme-permainan-gate-of-olympus-menunjukkan-konsistensi-struktur-putaran.html">Analisis Mekanisme Permainan : Gate of Olympus Menunjukkan Konsistensi Struktur Putaran</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/analisis-pola-operasional-mahjong-ways-3-menunjukkan-konsistensi-mekanisme-putaran.html">Analisis Pola Operasional : Mahjong Ways 3 Menunjukkan Konsistensi Mekanisme Putaran</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/analisis-pola-output-sweet-bonanza-menunjukkan-konsistensi-hasil-antar-sesi.html">Analisis Pola Output : Sweet Bonanza Menunjukkan Konsistensi Hasil Antar Sesi</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/analisis-pola-sistem-mahjong-ways-3-menunjukkan-keteraturan-distribusi-output.html">Analisis Pola Sistem : Mahjong Ways 3 Menunjukkan Keteraturan Distribusi Output</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/analisis-struktur-permainan-princess-starlight-menunjukkan-konsistensi-mekanisme-dasar.html">Analisis Struktur Permainan : Princess Starlight Menunjukkan Konsistensi Mekanisme Dasar</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/evaluasi-dinamika-permainan-spaceman-menampilkan-stabilitas-operasional-antar-sesi.html">Evaluasi Dinamika Permainan : Spaceman Menampilkan Stabilitas Operasional Antar Sesi</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/evaluasi-dinamika-sistem-mahjong-ways-3-menampilkan-pola-siklus-terukur.html">Evaluasi Dinamika Sistem : Mahjong Ways 3 Menampilkan Pola Siklus yang Terukur</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/evaluasi-distribusi-elemen-gate-of-olympus-menampilkan-keselarasan-kombinasi.html">Evaluasi Distribusi Elemen : Gate of Olympus Menampilkan Keselarasan Kombinasi</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/evaluasi-proses-internal-spaceman-menampilkan-pola-operasional-terukur.html">Evaluasi Proses Internal : Spaceman Menampilkan Pola Operasional yang Terukur</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/evaluasi-proses-operasional-princess-starlight-menampilkan-pola-siklus-terukur.html">Evaluasi Proses Operasional : Princess Starlight Menampilkan Pola Siklus Terukur</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/evaluasi-proses-permainan-sweet-bonanza-menampilkan-pola-operasional-terukur.html">Evaluasi Proses Permainan : Sweet Bonanza Menampilkan Pola Operasional Terukur</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/kajian-distribusi-simbol-mahjong-ways-3-mengindikasikan-stabilitas-frekuensi-kemunculan.html">Kajian Distribusi Simbol : Mahjong Ways 3 Mengindikasikan Stabilitas Frekuensi Kemunculan</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/kajian-distribusi-simbol-princess-starlight-mengindikasikan-stabilitas-frekuensi.html">Kajian Distribusi Simbol : Princess Starlight Mengindikasikan Stabilitas Frekuensi</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/kajian-distribusi-simbol-sweet-bonanza-mengindikasikan-stabilitas-kombinasi.html">Kajian Distribusi Simbol : Sweet Bonanza Mengindikasikan Stabilitas Kombinasi</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/kajian-mekanisme-internal-sweet-bonanza-mengindikasikan-keselarasan-proses-kombinasi.html">Kajian Mekanisme Internal : Sweet Bonanza Mengindikasikan Keselarasan Proses Kombinasi</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/kajian-pola-mekanisme-spaceman-mengindikasikan-stabilitas-alur-interaksi.html">Kajian Pola Mekanisme : Spaceman Mengindikasikan Stabilitas Alur Interaksi</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/kajian-proses-operasional-gate-of-olympus-mengindikasikan-stabilitas-alur-permainan.html">Kajian Proses Operasional : Gate of Olympus Mengindikasikan Stabilitas Alur Permainan</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/observasi-dinamika-sistem-princess-starlight-memperlihatkan-keteraturan-pola-putaran.html">Observasi Dinamika Sistem : Princess Starlight Memperlihatkan Keteraturan Pola Putaran</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/observasi-mekanisme-sistem-sweet-bonanza-memperlihatkan-keteraturan-struktur-permainan.html">Observasi Mekanisme Sistem : Sweet Bonanza Memperlihatkan Keteraturan Struktur Permainan</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/observasi-pola-sistem-gate-of-olympus-memperlihatkan-keteraturan-interaksi-simbol.html">Observasi Pola Sistem : Gate of Olympus Memperlihatkan Keteraturan Interaksi Simbol</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/observasi-proses-permainan-gate-of-olympus-memperlihatkan-konsistensi-jalur-putaran.html">Observasi Proses Permainan : Gate of Olympus Memperlihatkan Konsistensi Jalur Putaran</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/observasi-struktur-operasional-spaceman-memperlihatkan-keteraturan-proses-permainan.html">Observasi Struktur Operasional : Spaceman Memperlihatkan Keteraturan Proses Permainan</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/observasi-struktur-sistem-mahjong-ways-3-memperlihatkan-keteraturan-alur-permainan.html">Observasi Struktur Sistem : Mahjong Ways 3 Memperlihatkan Keteraturan Alur Permainan</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/pemantauan-mekanisme-internal-princess-starlight-mengungkap-keajegan-jalannya-permainan.html">Pemantauan Mekanisme Internal : Princess Starlight Mengungkap Keajegan Jalannya Permainan</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/pemantauan-perilaku-sistem-spaceman-mengungkap-keajegan-jalannya-sesi.html">Pemantauan Perilaku Sistem : Spaceman Mengungkap Keajegan Jalannya Sesi</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/pemantauan-proses-internal-mahjong-ways-3-mengungkap-keajegan-jalannya-sesi.html">Pemantauan Proses Internal : Mahjong Ways 3 Mengungkap Keajegan Jalannya Sesi</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/pemantauan-siklus-internal-sweet-bonanza-mengungkap-keajegan-jalannya-putaran.html">Pemantauan Siklus Internal : Sweet Bonanza Mengungkap Keajegan Jalannya Putaran</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/pemantauan-struktur-sistem-princess-starlight-mengungkap-keteraturan-alur-permainan.html">Pemantauan Struktur Sistem : Princess Starlight Mengungkap Keteraturan Alur Permainan</a>
-<a href="https://journal.iaialhikmahtuban.ac.id/fyp/penelaahan-dinamika-internal-gate-of-olympus-mengungkap-pola-repetisi-terukur.html">Penelaahan Dinamika Internal : Gate of Olympus Mengungkap Pola Repetisi Terukur</a>
-
 </div>
