@@ -53,5 +53,15 @@
 <a href="https://actonline.org/news/perumusan-temuan-sistem-mahjong-ways-menunjukkan-keteraturan-jalur-permainan.html">perumusan temuan sistem mahjong ways menunjukkan keteraturan jalur permainan</a>
 <a href="https://actonline.org/news/studi-operasional-sistem-mahjong-ways-mengindikasikan-keajegan-pola-output.html">studi operasional sistem mahjong ways mengindikasikan keajegan pola output</a>
 <a href="https://actonline.org/news/studi-perilaku-permainan-mahjong-ways-menampilkan-pola-operasional-terukur.html">studi perilaku permainan mahjong ways menampilkan pola operasional terukur</a>
+<a href="https://actonline.org/news/analisis-pola-sistem-mahjong-ways-3-menunjukkan-konsistensi-distribusi-simbol-antar-sesi.html">Analisis Pola Sistem : Mahjong Ways 3 Menunjukkan Konsistensi Distribusi Simbol Antar Sesi</a>
+<a href="https://actonline.org/news/analisis-struktur-output-sweet-bonanza-menunjukkan-distribusi-hasil-relatif-merata.html">Analisis Struktur Output : Sweet Bonanza Menunjukkan Distribusi Hasil yang Relatif Merata</a>
+<a href="https://actonline.org/news/analisis-variabilitas-proses-princess-starlight-mempertahankan-rentang-fluktuasi-terkendali.html">Analisis Variabilitas Proses : Princess Starlight Mempertahankan Rentang Fluktuasi yang Terkendali</a>
+<a href="https://actonline.org/news/evaluasi-dinamika-operasional-spaceman-memperlihatkan-pola-pergerakan-terukur-stabil.html">Evaluasi Dinamika Operasional : Spaceman Memperlihatkan Pola Pergerakan yang Terukur dan Stabil</a>
+<a href="https://actonline.org/news/evaluasi-perilaku-algoritmik-sweet-bonanza-memperlihatkan-repetisi-pola-kombinasi-terukur.html">Evaluasi Perilaku Algoritmik : Sweet Bonanza Memperlihatkan Repetisi Pola Kombinasi Terukur</a>
+<a href="https://actonline.org/news/kajian-pola-sistematis-princess-starlight-mengalami-konsistensi-ritme-aktivasi-dalam-beberapa-siklus.html">Kajian Pola Sistematis : Princess Starlight Mengalami Konsistensi Ritme Aktivasi dalam Beberapa Siklus</a>
+<a href="https://actonline.org/news/kajian-sistem-interaktif-spaceman-menunjukkan-keselarasan-nilai-pergerakan-berbasis-waktu.html">Kajian Sistem Interaktif : Spaceman Menunjukkan Keselarasan Nilai Pergerakan Berbasis Waktu</a>
+<a href="https://actonline.org/news/observasi-dinamika-mekanisme-gate-of-olympus-mengalami-stabilitas-rasio-output-periode-menengah.html">Observasi Dinamika Mekanisme : Gate of Olympus Mengalami Stabilitas Rasio Output Periode Menengah</a>
+<a href="https://actonline.org/news/observasi-kinerja-internal-mahjong-ways-3-mengalami-sinkronisasi-pola-aktivasi-bertahap.html">Observasi Kinerja Internal : Mahjong Ways 3 Mengalami Sinkronisasi Pola Aktivasi Bertahap</a>
+<a href="https://actonline.org/news/studi-konsistensi-mekanisme-gate-of-olympus-menampilkan-pola-respons-sistem-berulang.html">Studi Konsistensi Mekanisme : Gate of Olympus Menampilkan Pola Respons Sistem yang Berulang</a>
 
 </div>
