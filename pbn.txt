@@ -38,30 +38,15 @@
 <a href="https://api.hrp.test.ibasis.co.uk/">https://api.hrp.test.ibasis.co.uk/</a>
 <!-- END BRANDING -->
 
-<a href="https://actonline.org/news/pemantauan-perilaku-sistem-spaceman-mengungkap-keajegan-jalannya-sesi.html">pemantauan perilaku sistem spaceman mengungkap keajegan jalannya sesi</a>
-<a href="https://actonline.org/news/pemantauan-proses-internal-mahjong-ways-3-mengungkap-keajegan-jalannya-sesi.html">pemantauan proses internal mahjong ways 3 mengungkap keajegan jalannya sesi</a>
-<a href="https://actonline.org/news/pemantauan-siklus-internal-sweet-bonanza-mengungkap-keajegan-jalannya-putaran.html">pemantauan siklus internal sweet bonanza mengungkap keajegan jalannya putaran</a>
-<a href="https://actonline.org/news/pemantauan-struktur-sistem-princess-starlight-mengungkap-keteraturan-alur-permainan.html">pemantauan struktur sistem princess starlight mengungkap keteraturan alur permainan</a>
-<a href="https://actonline.org/news/penelaahan-dinamika-internal-gate-of-olympus-mengungkap-pola-repetisi-terukur.html">penelaahan dinamika internal gate of olympus mengungkap pola repetisi terukur</a>
-<a href="https://actonline.org/news/observasi-pola-putaran-mahjong-ways-memperlihatkan-konsistensi-jalannya-sesi.html">observasi pola putaran mahjong ways memperlihatkan konsistensi jalannya sesi</a>
-<a href="https://actonline.org/news/observasi-teknis-permainan-mahjong-ways-menampilkan-koherensi-jalannya-proses.html">observasi teknis permainan mahjong ways menampilkan koherensi jalannya proses</a>
-<a href="https://actonline.org/news/pemantauan-operasional-mahjong-ways-mengungkap-pola-interaksi-elemen-stabil.html">pemantauan operasional mahjong ways mengungkap pola interaksi elemen stabil</a>
-<a href="https://actonline.org/news/pemetaan-alur-permainan-mahjong-ways-memperlihatkan-pola-repetitif-terukur.html">pemetaan alur permainan mahjong ways memperlihatkan pola repetitif terukur</a>
-<a href="https://actonline.org/news/penelaahan-proses-sistem-mahjong-ways-memperlihatkan-keajegan-jalur-putaran.html">penelaahan proses sistem mahjong ways memperlihatkan keajegan jalur putaran</a>
-<a href="https://actonline.org/news/penelitian-pola-output-mahjong-ways-menunjukkan-konsistensi-kombinasi-simbol.html">penelitian pola output mahjong ways menunjukkan konsistensi kombinasi simbol</a>
-<a href="https://actonline.org/news/peninjauan-pola-interaksi-mahjong-ways-menampilkan-konsistensi-hubungan-simbol.html">peninjauan pola interaksi mahjong ways menampilkan konsistensi hubungan simbol</a>
-<a href="https://actonline.org/news/perumusan-temuan-sistem-mahjong-ways-menunjukkan-keteraturan-jalur-permainan.html">perumusan temuan sistem mahjong ways menunjukkan keteraturan jalur permainan</a>
-<a href="https://actonline.org/news/studi-operasional-sistem-mahjong-ways-mengindikasikan-keajegan-pola-output.html">studi operasional sistem mahjong ways mengindikasikan keajegan pola output</a>
-<a href="https://actonline.org/news/studi-perilaku-permainan-mahjong-ways-menampilkan-pola-operasional-terukur.html">studi perilaku permainan mahjong ways menampilkan pola operasional terukur</a>
-<a href="https://actonline.org/news/analisis-pola-sistem-mahjong-ways-3-menunjukkan-konsistensi-distribusi-simbol-antar-sesi.html">Analisis Pola Sistem : Mahjong Ways 3 Menunjukkan Konsistensi Distribusi Simbol Antar Sesi</a>
-<a href="https://actonline.org/news/analisis-struktur-output-sweet-bonanza-menunjukkan-distribusi-hasil-relatif-merata.html">Analisis Struktur Output : Sweet Bonanza Menunjukkan Distribusi Hasil yang Relatif Merata</a>
-<a href="https://actonline.org/news/analisis-variabilitas-proses-princess-starlight-mempertahankan-rentang-fluktuasi-terkendali.html">Analisis Variabilitas Proses : Princess Starlight Mempertahankan Rentang Fluktuasi yang Terkendali</a>
-<a href="https://actonline.org/news/evaluasi-dinamika-operasional-spaceman-memperlihatkan-pola-pergerakan-terukur-stabil.html">Evaluasi Dinamika Operasional : Spaceman Memperlihatkan Pola Pergerakan yang Terukur dan Stabil</a>
-<a href="https://actonline.org/news/evaluasi-perilaku-algoritmik-sweet-bonanza-memperlihatkan-repetisi-pola-kombinasi-terukur.html">Evaluasi Perilaku Algoritmik : Sweet Bonanza Memperlihatkan Repetisi Pola Kombinasi Terukur</a>
-<a href="https://actonline.org/news/kajian-pola-sistematis-princess-starlight-mengalami-konsistensi-ritme-aktivasi-dalam-beberapa-siklus.html">Kajian Pola Sistematis : Princess Starlight Mengalami Konsistensi Ritme Aktivasi dalam Beberapa Siklus</a>
-<a href="https://actonline.org/news/kajian-sistem-interaktif-spaceman-menunjukkan-keselarasan-nilai-pergerakan-berbasis-waktu.html">Kajian Sistem Interaktif : Spaceman Menunjukkan Keselarasan Nilai Pergerakan Berbasis Waktu</a>
-<a href="https://actonline.org/news/observasi-dinamika-mekanisme-gate-of-olympus-mengalami-stabilitas-rasio-output-periode-menengah.html">Observasi Dinamika Mekanisme : Gate of Olympus Mengalami Stabilitas Rasio Output Periode Menengah</a>
-<a href="https://actonline.org/news/observasi-kinerja-internal-mahjong-ways-3-mengalami-sinkronisasi-pola-aktivasi-bertahap.html">Observasi Kinerja Internal : Mahjong Ways 3 Mengalami Sinkronisasi Pola Aktivasi Bertahap</a>
-<a href="https://actonline.org/news/studi-konsistensi-mekanisme-gate-of-olympus-menampilkan-pola-respons-sistem-berulang.html">Studi Konsistensi Mekanisme : Gate of Olympus Menampilkan Pola Respons Sistem yang Berulang</a>
+<a href="https://www.officetogether.com/blog/analisis-konsistensi-output-princess-starlight-memperlihatkan-ritme-simbol-stabil.html">Analisis Konsistensi Output : Princess Starlight Memperlihatkan Ritme Simbol yang Stabil</a>
+<a href="https://www.officetogether.com/blog/analisis-pola-operasional-mahjong-ways-3-menunjukkan-konsistensi-distribusi-simbol.html">Analisis Pola Operasional : Mahjong Ways 3 Menunjukkan Konsistensi Distribusi Simbol</a>
+<a href="https://www.officetogether.com/blog/analisis-respons-dinamis-spaceman-memperlihatkan-konsistensi-aktivasi-fitur-tambahan.html">Analisis Respons Dinamis : Spaceman Memperlihatkan Konsistensi Aktivasi Fitur Tambahan</a>
+<a href="https://www.officetogether.com/blog/evaluasi-pola-operasional-gate-of-olympus-mengindikasikan-konsistensi-distribusi-hadiah.html">Evaluasi Pola Operasional : Gate of Olympus Mengindikasikan Konsistensi Distribusi Hadiah</a>
+<a href="https://www.officetogether.com/blog/evaluasi-respons-sistem-sweet-bonanza-mengindikasikan-stabilitas-frekuensi-kemenangan.html">Evaluasi Respons Sistem : Sweet Bonanza Mengindikasikan Stabilitas Frekuensi Kemenangan</a>
+<a href="https://www.officetogether.com/blog/observasi-mekanisme-internal-gate-of-olympus-memperlihatkan-fluktuasi-rtp-terukur.html">Observasi Mekanisme Internal : Gate of Olympus Memperlihatkan Fluktuasi RTP yang Terukur</a>
+<a href="https://www.officetogether.com/blog/observasi-perilaku-sistem-mahjong-ways-3-menunjukkan-pola-pengulangan-terukur.html">Observasi Perilaku Sistem : Mahjong Ways 3 Menunjukkan Pola Pengulangan Terukur</a>
+<a href="https://www.officetogether.com/blog/observasi-pola-sistem-princess-starlight-mengindikasikan-stabilitas-frekuensi-scatter.html">Observasi Pola Sistem : Princess Starlight Mengindikasikan Stabilitas Frekuensi Scatter</a>
+<a href="https://www.officetogether.com/blog/studi-dinamika-permainan-spaceman-menampilkan-perubahan-pola-scatter-terukur.html">Studi Dinamika Permainan : Spaceman Menampilkan Perubahan Pola Scatter yang Terukur</a>
+<a href="https://www.officetogether.com/blog/studi-mekanisme-internal-sweet-bonanza-menunjukkan-variasi-frekuensi-bonus-terkontrol.html">Studi Mekanisme Internal : Sweet Bonanza Menunjukkan Variasi Frekuensi Bonus yang Terkontrol</a>
 
 </div>
