@@ -38,15 +38,4 @@
 <a href="https://api.hrp.test.ibasis.co.uk/">https://api.hrp.test.ibasis.co.uk/</a>
 <!-- END BRANDING -->
 
-<a href="https://www.officetogether.com/blog/analisis-konsistensi-output-princess-starlight-memperlihatkan-ritme-simbol-stabil.html">Analisis Konsistensi Output : Princess Starlight Memperlihatkan Ritme Simbol yang Stabil</a>
-<a href="https://www.officetogether.com/blog/analisis-pola-operasional-mahjong-ways-3-menunjukkan-konsistensi-distribusi-simbol.html">Analisis Pola Operasional : Mahjong Ways 3 Menunjukkan Konsistensi Distribusi Simbol</a>
-<a href="https://www.officetogether.com/blog/analisis-respons-dinamis-spaceman-memperlihatkan-konsistensi-aktivasi-fitur-tambahan.html">Analisis Respons Dinamis : Spaceman Memperlihatkan Konsistensi Aktivasi Fitur Tambahan</a>
-<a href="https://www.officetogether.com/blog/evaluasi-pola-operasional-gate-of-olympus-mengindikasikan-konsistensi-distribusi-hadiah.html">Evaluasi Pola Operasional : Gate of Olympus Mengindikasikan Konsistensi Distribusi Hadiah</a>
-<a href="https://www.officetogether.com/blog/evaluasi-respons-sistem-sweet-bonanza-mengindikasikan-stabilitas-frekuensi-kemenangan.html">Evaluasi Respons Sistem : Sweet Bonanza Mengindikasikan Stabilitas Frekuensi Kemenangan</a>
-<a href="https://www.officetogether.com/blog/observasi-mekanisme-internal-gate-of-olympus-memperlihatkan-fluktuasi-rtp-terukur.html">Observasi Mekanisme Internal : Gate of Olympus Memperlihatkan Fluktuasi RTP yang Terukur</a>
-<a href="https://www.officetogether.com/blog/observasi-perilaku-sistem-mahjong-ways-3-menunjukkan-pola-pengulangan-terukur.html">Observasi Perilaku Sistem : Mahjong Ways 3 Menunjukkan Pola Pengulangan Terukur</a>
-<a href="https://www.officetogether.com/blog/observasi-pola-sistem-princess-starlight-mengindikasikan-stabilitas-frekuensi-scatter.html">Observasi Pola Sistem : Princess Starlight Mengindikasikan Stabilitas Frekuensi Scatter</a>
-<a href="https://www.officetogether.com/blog/studi-dinamika-permainan-spaceman-menampilkan-perubahan-pola-scatter-terukur.html">Studi Dinamika Permainan : Spaceman Menampilkan Perubahan Pola Scatter yang Terukur</a>
-<a href="https://www.officetogether.com/blog/studi-mekanisme-internal-sweet-bonanza-menunjukkan-variasi-frekuensi-bonus-terkontrol.html">Studi Mekanisme Internal : Sweet Bonanza Menunjukkan Variasi Frekuensi Bonus yang Terkontrol</a>
-
 </div>
