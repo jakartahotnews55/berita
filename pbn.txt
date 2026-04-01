@@ -37,16 +37,6 @@
 <a href="https://api.hrp.test.ibasis.co.uk/">https://api.hrp.test.ibasis.co.uk/</a>
 <!-- END BRANDING -->
 
-<a href="https://engaged.robbinsbrothers.com/wp-content/uploads/templates/analisis-dinamika-sistem-permainan-slot-digital-menggunakan-pendekatan.html">Analisis dinamika sistem permainan slot digital menggunakan pendekatan statistik inferensial</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/uploads/templates/analisis-model-probabilitas-dalam-gate-of-olympus-menggunakan.html">Analisis model probabilitas dalam Gate of Olympus menggunakan pendekatan data empiris</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/uploads/templates/analisis-model-sistem-digital-dalam-sweet-bonanza-berbasis.html">Analisis model sistem digital dalam Sweet Bonanza berbasis variansi probabilitas hasil</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/uploads/templates/analisis-probabilitas-rtp-mahjong-ways-dalam-perspektif-distribusi.html">Analisis probabilitas RTP pada Mahjong Ways dalam perspektif distribusi data dinamis</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/uploads/templates/analisis-sistem-probabilistik-permainan-slot-melalui-pendekatan-data.html">Analisis sistem probabilistik permainan slot melalui pendekatan data dan model numerik</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/uploads/templates/analisis-sistem-probabilistik-sweet-bonanza-melalui-pengamatan-variansi.html">Analisis sistem probabilistik pada Sweet Bonanza melalui pengamatan variansi hasil</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/uploads/templates/analisis-sistem-probabilitas-dalam-mahjong-ways-melalui-pendekatan.html">Analisis sistem probabilitas dalam Mahjong Ways melalui pendekatan data longitudinal</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/uploads/templates/analisis-statistik-frekuensi-simbol-dalam-princess-starlight-berbasis.html">Analisis statistik frekuensi simbol dalam Princess Starlight berbasis data terukur</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/uploads/templates/analisis-statistik-terhadap-dinamika-rtp-dalam-sweet-bonanza.html">Analisis statistik terhadap dinamika RTP dalam Sweet Bonanza berbasis observasi sistem</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/uploads/templates/analisis-variansi-distribusi-simbol-mahjong-ways-berbasis-pendekatan.html">Analisis variansi distribusi simbol pada Mahjong Ways berbasis pendekatan data kuantitatif</a>
 <a href="https://engaged.robbinsbrothers.com/wp-content/uploads/templates/analisis-variansi-hasil-permainan-digital-berbasis-model-statistik.html">Analisis variansi hasil permainan digital berbasis model statistik pada Mahjong Ways</a>
 <a href="https://engaged.robbinsbrothers.com/wp-content/uploads/templates/analisis-variansi-hasil-permainan-slot-digital-melalui-simulasi.html">Analisis variansi hasil permainan slot digital melalui simulasi berbasis probabilitas</a>
 <a href="https://engaged.robbinsbrothers.com/wp-content/uploads/templates/evaluasi-algoritma-acak-dalam-sistem-permainan-digital-menggunakan.html">Evaluasi algoritma acak dalam sistem permainan digital menggunakan pendekatan statistik</a>
