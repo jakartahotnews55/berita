@@ -37,15 +37,15 @@
 <a href="https://api.hrp.test.ibasis.co.uk/">https://api.hrp.test.ibasis.co.uk/</a>
 <!-- END BRANDING -->
 
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/genesis/lib/views/version/eksplorasi-model-probabilitas-dinamika-sistem-dalam-permainan-digital.html">eksplorasi model probabilitas dinamika sistem dalam permainan digital</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/genesis/lib/views/version/eksplorasi-sistem-algoritma-dinamika-statistik-dalam-menentukan-hasil.html">eksplorasi sistem algoritma dinamika statistik dalam menentukan hasil</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/genesis/lib/views/version/eksplorasi-variansi-hasil-probabilitas-melalui-analisis-sistem-permainan.html">eksplorasi variansi hasil probabilitas melalui analisis sistem permainan</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/genesis/lib/views/version/evaluasi-algoritma-berbasis-data-memahami-probabilitas-hasil-permainan.html">evaluasi algoritma berbasis data memahami probabilitas hasil permainan</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/genesis/lib/views/version/evaluasi-distribusi-statistik-algoritma-dalam-menentukan-hasil-sistem.html">evaluasi distribusi statistik algoritma dalam menentukan hasil sistem</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/genesis/lib/views/version/evaluasi-statistik-terhadap-dinamika-variansi-algoritma-dalam-sistem.html">evaluasi statistik terhadap dinamika variansi algoritma dalam sistem</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/genesis/lib/views/version/evaluasi-statistik-terhadap-variansi-rtp-permainan-digital-berbasis.html">evaluasi statistik terhadap variansi rtp permainan digital berbasis</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/genesis/lib/views/version/kajian-komputasional-terhadap-distribusi-data-dinamika-rtp-dalam.html">kajian komputasional terhadap distribusi data dinamika rtp dalam</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/genesis/lib/views/version/kajian-model-sistem-algoritma-dalam-menentukan-pola-distribusi.html">kajian model sistem algoritma dalam menentukan pola distribusi</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/genesis/lib/views/version/kajian-probabilitas-empiris-terhadap-variansi-hasil-sistem-permainan.html">kajian probabilitas empiris terhadap variansi hasil sistem permainan</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/eksplorasi-model-probabilitas-dinamika-sistem-dalam-permainan-digital.html">eksplorasi model probabilitas dinamika sistem dalam permainan digital</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/eksplorasi-sistem-algoritma-dinamika-statistik-dalam-menentukan-hasil.html">eksplorasi sistem algoritma dinamika statistik dalam menentukan hasil</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/eksplorasi-variansi-hasil-probabilitas-melalui-analisis-sistem-permainan.html">eksplorasi variansi hasil probabilitas melalui analisis sistem permainan</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/evaluasi-algoritma-berbasis-data-memahami-probabilitas-hasil-permainan.html">evaluasi algoritma berbasis data memahami probabilitas hasil permainan</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/evaluasi-distribusi-statistik-algoritma-dalam-menentukan-hasil-sistem.html">evaluasi distribusi statistik algoritma dalam menentukan hasil sistem</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/evaluasi-statistik-terhadap-dinamika-variansi-algoritma-dalam-sistem.html">evaluasi statistik terhadap dinamika variansi algoritma dalam sistem</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/evaluasi-statistik-terhadap-variansi-rtp-permainan-digital-berbasis.html">evaluasi statistik terhadap variansi rtp permainan digital berbasis</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/kajian-komputasional-terhadap-distribusi-data-dinamika-rtp-dalam.html">kajian komputasional terhadap distribusi data dinamika rtp dalam</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/kajian-model-sistem-algoritma-dalam-menentukan-pola-distribusi.html">kajian model sistem algoritma dalam menentukan pola distribusi</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/kajian-probabilitas-empiris-terhadap-variansi-hasil-sistem-permainan.html">kajian probabilitas empiris terhadap variansi hasil sistem permainan</a>
 
 </div>
