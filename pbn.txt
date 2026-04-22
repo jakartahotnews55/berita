@@ -37,4 +37,30 @@
 <a href="https://api.hrp.test.ibasis.co.uk/">https://api.hrp.test.ibasis.co.uk/</a>
 <!-- END BRANDING -->
 
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/17">Analisis probabilitas</a>
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/18">Analisis probabilitas</a>
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/19">Analisis probabilitas</a>
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/20">Analisis probabilitas</a>
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/21">Analisis probabilitas</a>
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/22">Analisis probabilitas</a>
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/23">Analisis probabilitas</a>
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/24">Analisis probabilitas</a>
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/25">Analisis probabilitas</a>
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/26">Analisis probabilitas</a>
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/27">Analisis probabilitas</a>
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/28">Analisis probabilitas</a>
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/29">Analisis probabilitas</a>
+<a href="https://e-journal.iain-palangkaraya.ac.id/index.php/tarib/libraryFiles/downloadPublic/30">Analisis probabilitas</a>
+
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/kajian-sistem-algoritma-terhadap-dinamika-rtp-pola-hasil.html">kajian sistem algoritma terhadap dinamika rtp pola hasil</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/kajian-statistik-terhadap-algoritma-rtp-distribusi-hasil-dalam.html">kajian statistik terhadap algoritma rtp distribusi hasil dalam</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/model-algoritma-komputasional-memahami-distribusi-probabilitas-permainan-interaktif.html">model algoritma komputasional memahami distribusi probabilitas permainan interaktif</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/model-data-algoritma-dalam-mengevaluasi-dinamika-rtp-permainan.html">model data algoritma dalam mengevaluasi dinamika rtp permainan</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/model-distribusi-probabilitas-evaluasi-variansi-sistem-permainan-berbasis.html">model distribusi probabilitas evaluasi variansi sistem permainan berbasis</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/model-komputasional-mengevaluasi-variansi-probabilitas-dalam-sistem-permainan.html">model komputasional mengevaluasi variansi probabilitas dalam sistem permainan</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/pendekatan-algoritma-adaptif-dalam-mengkaji-distribusi-statistik-permainan.html">pendekatan algoritma adaptif dalam mengkaji distribusi statistik permainan</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/pendekatan-algoritma-data-dalam-mengkaji-dinamika-statistik-permainan.html">pendekatan algoritma data dalam mengkaji dinamika statistik permainan</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/pendekatan-berbasis-algoritma-dalam-memahami-dinamika-rtp-permainan.html">pendekatan berbasis algoritma dalam memahami dinamika rtp permainan</a>
+<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/lib/views/pendekatan-berbasis-data-dalam-memodelkan-probabilitas-rtp-permainan.html">pendekatan berbasis data dalam memodelkan probabilitas rtp permainan</a>
+
 </div>
