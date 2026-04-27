@@ -37,15 +37,4 @@
 <a href="https://api.hrp.test.ibasis.co.uk/">https://api.hrp.test.ibasis.co.uk/</a>
 <!-- END BRANDING -->
 
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/languages/views/analisis-komputasional-terhadap-model-sistem-variansi-probabilitas-dalam.html">Analisis komputasional terhadap model sistem dan variansi probabilitas dalam permainan digital interaktif</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/languages/views/analisis-probabilitas-dinamika-rtp-dalam-sistem-permainan-digital.html">Analisis probabilitas dan dinamika RTP dalam sistem permainan digital berbasis data kuantitatif</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/languages/views/eksplorasi-statistik-model-probabilitas-dalam-memahami-pola-hasil.html">Eksplorasi statistik dan model probabilitas dalam memahami pola hasil permainan digital berbasis sistem</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/languages/views/evaluasi-algoritma-berbasis-data-menganalisis-probabilitas-hasil-permainan.html">Evaluasi algoritma berbasis data untuk menganalisis probabilitas hasil pada permainan digital kontemporer</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/languages/views/kajian-berbasis-data-terhadap-distribusi-probabilitas-dalam-sistem.html">Kajian berbasis data terhadap distribusi probabilitas dalam sistem permainan digital menggunakan algoritma</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/languages/views/model-komputasional-dalam-memahami-distribusi-probabilitas-sistem-permainan.html">Model komputasional dalam memahami distribusi probabilitas pada sistem permainan digital interaktif modern</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/languages/views/pendekatan-sistematis-menganalisis-variansi-dinamika-rtp-dalam-permainan.html">Pendekatan sistematis untuk menganalisis variansi dan dinamika RTP dalam permainan digital modern</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/languages/views/pendekatan-statistik-mengkaji-variansi-hasil-permainan-digital-melalui.html">Pendekatan statistik untuk mengkaji variansi hasil pada permainan digital melalui model algoritma adaptif</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/languages/views/studi-empiris-terhadap-dinamika-sistem-variansi-data-dalam.html">Studi empiris terhadap dinamika sistem dan variansi data dalam mekanisme RTP permainan digital</a>
-<a href="https://engaged.robbinsbrothers.com/wp-content/themes/robbins-brothers/languages/views/studi-statistik-lanjutan-mengenai-dinamika-algoritma-probabilitas-dalam.html">Studi statistik lanjutan mengenai dinamika algoritma dan probabilitas dalam sistem permainan digital modern</a>
-
 </div>
