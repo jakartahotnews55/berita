@@ -37,19 +37,4 @@
 <a href="https://api.hrp.test.ibasis.co.uk/">https://api.hrp.test.ibasis.co.uk/</a>
 <!-- END BRANDING -->
 
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/62">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/62</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/63">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/63</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/64">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/64</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/65">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/65</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/66">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/66</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/67">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/67</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/68">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/68</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/69">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/69</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/70">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/70</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/71">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/71</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/72">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/72</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/73">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/73</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/74">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/74</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/75">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/75</a>
-
 </div>
