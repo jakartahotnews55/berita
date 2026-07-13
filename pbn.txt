@@ -1,4 +1,4 @@
-<div style="display: none;">
+  <div style="display: none;">
     <!-- BRANDING -->
 <a href="https://ftms.edu.my/about/">SLOT367</a>
 <a href="https://www.sinamism.com/">https://www.sinamism.com</a><br>
@@ -31,27 +31,5 @@
 <a href="https://testlogin2.giftedmatrix.net/">https://testlogin2.giftedmatrix.net/</a>
 <a href="https://api.hrp.test.ibasis.co.uk/">https://api.hrp.test.ibasis.co.uk/</a>
 <!-- END BRANDING -->
-
-<a href="https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32072">https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32072</a>
-<a href="https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32073">https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32073</a>
-<a href="https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32074">https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32074</a>
-<a href="https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32075">https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32075</a>
-<a href="https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32076">https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32076</a>
-<a href="https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32077">https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32077</a>
-<a href="https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32078">https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32078</a>
-<a href="https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32079">https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32079</a>
-<a href="https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32080">https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32080</a>
-<a href="https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32081">https://ejournal.undip.ac.id/index.php/dlr/article/viewFile/37960/32081</a>
-
-<a href="https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/269">https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/269</a>
-<a href="https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/270">https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/270</a>
-<a href="https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/271">https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/271</a>
-<a href="https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/272">https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/272</a>
-<a href="https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/273">https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/273</a>
-<a href="https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/274">https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/274</a>
-<a href="https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/275">https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/275</a>
-<a href="https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/276">https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/276</a>
-<a href="https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/277">https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/277</a>
-<a href="https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/278">https://selami.uho.ac.id/index.php/PPKN_IPS/article/download/29/278</a>
 
 </div>
