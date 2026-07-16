@@ -29,26 +29,15 @@
 <a href="https://api.hrp.test.ibasis.co.uk/">https://api.hrp.test.ibasis.co.uk/</a>
 <!-- END BRANDING -->
 
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/129">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/129</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/130">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/130</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/131">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/131</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/132">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/132</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/133">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/133</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/134">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/134</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/135">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/135</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/136">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/136</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/137">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/137</a>
-<a href="https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/138">https://ejournal.uinsgd.ac.id/index.php/kjrt/libraryFiles/downloadPublic/138</a>
-
-<a href="https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/12">https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/12</a>
-<a href="https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/13">https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/13</a>
-<a href="https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/14">https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/14</a>
-<a href="https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/15">https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/15</a>
-<a href="https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/16">https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/16</a>
-<a href="https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/17">https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/17</a>
-<a href="https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/18">https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/18</a>
-<a href="https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/19">https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/19</a>
-<a href="https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/20">https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/20</a>
-<a href="https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/21">https://ejournal.uin-suka.ac.id/syariah/jrh/libraryFiles/downloadPublic/21</a>
+<a href="https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6429">https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6429</a>
+<a href="https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6430">https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6430</a>
+<a href="https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6431">https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6431</a>
+<a href="https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6432">https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6432</a>
+<a href="https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6433">https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6433</a>
+<a href="https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6434">https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6434</a>
+<a href="https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6435">https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6435</a>
+<a href="https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6436">https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6436</a>
+<a href="https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6437">https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6437</a>
+<a href="https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6438">https://jurnal.iain-bone.ac.id/index.php/adara/libraryFiles/downloadPublic/6438</a>
 
 </div>
